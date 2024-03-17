@@ -40,6 +40,7 @@ To use the trained model for predicting handwritten digits from PNG images:
 
 ## Files Included
 
+- `mnist-classification-using-svms` : Python notebook for training and evaluating model
 - `predict.py`: Model evaluation on Python
 - `app.py` : Flask backend
 - `streamlit_app.py` : Streamlit frontend
